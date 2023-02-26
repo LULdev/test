@@ -25,7 +25,7 @@ PIXI.loader
 .add("static/client/sprites/brick.png")
 .add("static/client/sprites/floor.png")
 
-.add("static/client/sprites/player.png")
+.add("static/client/sprites/player1.png")
 .add("static/client/sprites/pistol.png")
 .add("static/client/sprites/revolver.png")
 .add("static/client/sprites/doublePistols.png")
@@ -33,7 +33,7 @@ PIXI.loader
 .add("static/client/sprites/smg.png")
 .add("static/client/sprites/gatling.png")
 .add("static/client/sprites/bullet.png")
-.add("static/client/sprites/healthPack.png")
+.add("static/client/sprites/healthPack1.png")
 .add("static/client/sprites/dead.png")
 .load(setup);
 function setup() {
